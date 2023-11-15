@@ -1,3 +1,5 @@
+__version__ = "1.0.1"
+
 import pyttsx3
 import tts_ui as ui
 
