@@ -46,8 +46,8 @@ Modify `config.py` (if available) to customize the TTS engine settings.-->
 >- Select "Run anyway" to proceed with the execution.
 >
 >Please note that this is a common behavior for new or less-known applications, and it doesn't necessarily indicate a security threat. We recommend only downloading and running software from trusted sources.
-[!Example Image 1](https://github.com/chanekarayush/TTS-Engine-Project/blob/main/TtsEngine/images/warning1.png? raw=true)
-[!Example Image 2](https://github.com/chanekarayush/TTS-Engine-Project/blob/main/TtsEngine/images/warning2.png? raw=true)
+<!-- [!Example Image 1](https://github.com/chanekarayush/TTS-Engine-Project/blob/main/TtsEngine/images/warning1.png? raw=true) -->
+<!-- [!Example Image 2](https://github.com/chanekarayush/TTS-Engine-Project/blob/main/TtsEngine/images/warning2.png? raw=true) -->
 
 ## License
 
