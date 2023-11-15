@@ -2,7 +2,11 @@ from tkinter import *
 from tkinter import ttk, filedialog, messagebox
 import os
 
-
+script_directory = os.path.dirname(__file__)
+# Specify the relative path to the file
+abs_path = os.path.join(script_directory, "content_path", "TTS_ENGINE.txt")
+# Ensure the directory exists, create if not
+os.makedirs(os.path.dirname(abs_path), exist_ok=True)
 
 class UserInput:
     def __init__(self, window) -> None:
@@ -87,8 +91,6 @@ class UserInput:
             # File name wasn't selected which is why it maybe undefined
             messagebox.showerror("Error", message="Please Enter File Name and Destination Folder in the dialog box")
     def write_data(self):
-                abs_path = os.path.dirname(__file__)
-                abs_path += "\\content_path\\TTS_ENGINE.txt"
                 file = open(abs_path, "w")
                 file.write(self.content.get())
                 file.write("\n")
