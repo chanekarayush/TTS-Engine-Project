@@ -1,4 +1,7 @@
+"""Hi Mom TTS Engine Module - Say Hi Mom Blazingly Fast"""
 __version__ = "1.0.1"
+__author__ = "Ayush Chanekar"
+
 
 import pyttsx3
 import tts_ui as ui
