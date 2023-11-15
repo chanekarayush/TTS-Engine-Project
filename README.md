@@ -34,6 +34,18 @@ The converter allows you to convert text input into speech and save the output a
 
 Modify `config.py` (if available) to customize the TTS engine settings.-->
 
+## Windows Defender Warning
+
+**Important:**
+If you encounter an issue with Windows Defender SmartScreen preventing the execution of the application, you may see a warning message indicating that the app is unrecognized or potentially harmful.
+
+To resolve this issue and run the application:
+
+- Click on "More info" in the warning message.
+- Select "Run anyway" to proceed with the execution.
+
+Please note that this is a common behavior for new or less-known applications, and it doesn't necessarily indicate a security threat. We recommend only downloading and running software from trusted sources.
+
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
@@ -41,4 +53,3 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 ---
 
 For additional information, visit the [GitHub repository](https://github.com/chanekarayush/TTS-Engine-Project).
-
