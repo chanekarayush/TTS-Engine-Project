@@ -18,7 +18,7 @@ The converter allows you to convert text input into speech and save the output a
 
 ## Usage
 
-1. Download the latest release from the [Releases](/releases) page.
+1. Download the latest release from the [Releases](https://github.com/chanekarayush/TTS-Engine-Project/releases) page.
 
 2. Extract the contents of the zip file.
 
