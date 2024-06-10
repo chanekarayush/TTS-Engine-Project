@@ -13,22 +13,23 @@ The converter allows you to convert text input into speech and save the output a
 ## Features
 
 - **Offline Usage:** No internet connection is required for text-to-speech conversion.
-- **Output Format:** Generates .mp3 files for easy playback and sharing.
-<!--- **Customization:** Adjust voice, rate, and volume to suit your preferences.-->
+- **Output Format:** Generates .mp3 and .wav files for easy playback and sharing.
+- **Adjustable Speed** of speech.
+- File Format .wav can be toggled off to keep mp3 output
+- Voices can be changed displayed menu and radio buttons
+- Added Dark and Light Theme
+- New and improved GUI
 
 ## Usage
 
 1. Download the latest release from the [Releases](https://github.com/chanekarayush/TTS-Engine-Project/releases) page.
+  
+2. Run the `.exe` file. <!--`tts_converter.exe`-->
 
-2. Extract the contents of the zip file.
-
-3. Run the `.exe` file. <!--`tts_converter.exe`-->
-
-4. Enter the text you want to convert.
+3. Enter the text you want to convert.
 
 <!--5. Adjust voice, rate, and volume if needed.-->
-
-5. The converted speech will be saved as output.mp3 in the directory of your choice.
+4. The converted speech will be saved as output.mp3 in the directory of your choice.
 
 <!--## Configuration
 
