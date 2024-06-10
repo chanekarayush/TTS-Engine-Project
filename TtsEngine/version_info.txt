@@ -3,5 +3,5 @@ AuthorName= Ayush Chanekar
 FileDescription= A TTS Engine
 LegalCopyright= Ayush Chanekar. Released under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 ProductName= Hi Mom TTS Engine
-ProductVersion= 1.0.1
+ProductVersion= 1.0.2
 
